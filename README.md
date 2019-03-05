@@ -1,7 +1,7 @@
 # IOCPServer
 <br>
-## 1. 앱 소개
-IOCP를 이용한 server-client 채팅시스템입니다.  (App for watch IT news and make and publish cardnews)
+1. 앱 소개
+IOCP를 이용한 server-client 채팅시스템입니다.  (App for chatting using by Iocp)
 
 ## 2. 적용 라이센스
 사용한 라이선스 : MIT Licence(https://github.com/utsavoza/photo-editor)<br>
